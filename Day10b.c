@@ -14,4 +14,5 @@ void main() {
     }
 
     printf("\n The HCF of %d and %d is %d.",a,b,hcf);
+    printf("SUCCESS");
 }
