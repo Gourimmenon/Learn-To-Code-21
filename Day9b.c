@@ -22,6 +22,8 @@ int main() {
             {
               printf("%d ",n*i);
             }
+          printf("Genius..!");
        }
    }while(1);
+   
 }
